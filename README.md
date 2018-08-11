@@ -1,2 +1,1 @@
-# helloworld-c
-Hello world! - C
+# Hello world! in C
